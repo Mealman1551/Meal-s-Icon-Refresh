@@ -1,4 +1,4 @@
-# This is Meal's Windows Icon Refresh
+# This is Meal's Icon Refresh
 Meal's Windows Icon Refresh is a icon refresher for desktop icons that are not visible anymore.
 
 ## Installation

@@ -1,6 +1,8 @@
 # This is Meal's Icon Refresh
 Meal's Windows Icon Refresh is a icon refresher for desktop icons that are not visible anymore.
 
+Latest version: ***v1.2***
+
 ## Installation
 It's a Windows Batchfile, this means that if you download it, it can be used directly by running it in admin.
 
